@@ -1,5 +1,5 @@
 _repo: Cherry-Violet-A-Tale-of-the-Great-Plague_61080
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Hutton, William Holden
@@ -22,6 +22,9 @@ contributor:
     gutenberg_agent_id: '42184'
     url: http://www.gutenberg.org/2009/agents/42184
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Railton
+covers:
+- cover_type: archival
+  image_path: 61080-h/images/cover.jpg
 creator:
   author:
     agent_name: Manning, Anne
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5275
     wikipedia: http://en.wikipedia.org/wiki/Anne_Manning
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61080#Cherry-Violet-A-Tale-of-the-Great-Plague
 gutenberg_issued: '2020-01-02'
 gutenberg_type: Text
 identifiers:
